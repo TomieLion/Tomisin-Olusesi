@@ -12,7 +12,7 @@ I’m a builder who's obsessed with the "Big Picture." I enjoy taking messy, mon
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Cloud:** AWS (Primary), Azure, GCP
+- **Cloud:** AWS, Azure, GCP
 - **IaC:** Terraform, CloudFormation, Pulumi
 - **Containers:** Docker, Kubernetes
 - **CI/CD:** GitHub Actions, GitLab CI, Jenkins
@@ -24,4 +24,4 @@ I’m a builder who's obsessed with the "Big Picture." I enjoy taking messy, mon
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TomieLion&show_icons=true&theme=radical)
 
 ### 📫 How to reach me
-https://www.linkedin.com/in/oluwatomisin-olusesi-44a26522a/ | olushesytomie@gmail.com 
+[LinkedIn Link]https://www.linkedin.com/in/oluwatomisin-olusesi-44a26522a/ | [Email]olushesytomie@gmail.com 
