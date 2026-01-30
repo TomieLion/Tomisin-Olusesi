@@ -24,4 +24,4 @@ I’m a builder who's obsessed with the "Big Picture." I enjoy taking messy, mon
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TomieLion&show_icons=true&theme=radical)
 
 ### 📫 How to reach me
-[LinkedIn Link]https://www.linkedin.com/in/oluwatomisin-olusesi-44a26522a/ | [Email]olushesytomie@gmail.com 
+[LinkedIn Link](https://www.linkedin.com/in/oluwatomisin-olusesi-44a26522a/) | [Email](olushesytomie@gmail.com) | [Twitter/X](@OlusesiTomisin)
